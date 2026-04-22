@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: brmp-juku
+    runtime: php
+    buildCommand: composer install --no-dev && php artisan optimize
+    startCommand: php artisan serve --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: APP_KEY
+        sync: false
+      - key: NODE_VERSION
+        value: 20
