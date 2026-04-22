@@ -1,0 +1,21 @@
+Admin BRMP (Jangan terhapus)
+- Nama : BRMP ADMIN
+- Email : dekeng1234@gmail.com
+- Password : 111111
+
+Admin PLO (Ibu Tigia)
+- Nama : Tigia Eloka Kailaku, S.Si., M.M.
+- Email : tigiaadminplo@brmpph.com
+- Password : brmpph#22adminPLO
+- Unit Kerja : Penata Layanan Operasional
+
+Admin OLO (Ibu Rini)
+- Nama : Rini Rospiani Iswari
+- Email : riniadminolo@brmpph.com
+- Password : brmpph#22adminOLO
+- Unit Kerja : Operator Layanan Operasional
+
+- Password : Semua akun menggunakan password brmpph#22 (sudah di- hash dengan aman).
+- Email : Format email menggunakan namalengkapdisambung@brmpph.com (tanpa gelar pendidikan).
+- Contoh: evayuliana@brmpph.com , tigiaelokakailaku@brmpph.com , dll.
+- NIP & Unit Kerja : Sudah disesuaikan dengan data tabel yang Anda berikan.
